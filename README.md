@@ -97,15 +97,9 @@ I enjoy breaking down how systems work, discovering weaknesses, building securit
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=0xnerd1&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github"
-width="49%"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=0xnerd1&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnerd1&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-width="49%"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnerd1&layout=compact&langs_count=8&theme=github_dark&hide_border=true" width="49%" />
 
 </div>
 
@@ -113,10 +107,7 @@ width="49%"
 
 <div align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=0xnerd1&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
-width="100%"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xnerd1&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
 
 </div>
 
@@ -126,10 +117,7 @@ width="100%"
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com/?user=0xnerd1&theme=github-dark-blue&hide_border=true&border_radius=12"
-width="80%"
-/>
+<img src="https://streak-stats.demolab.com/?user=0xnerd1&theme=github-dark-blue&hide_border=true&border_radius=12" width="80%" />
 
 </div>
 
@@ -139,11 +127,7 @@ width="80%"
 
 <div align="center">
 
-<img
-src="https://ghchart.rshah.org/0xnerd1"
-alt="GitHub Contribution Calendar"
-width="100%"
-/>
+<img src="https://ghchart.rshah.org/0xnerd1" alt="GitHub Contribution Calendar" width="100%" />
 
 </div>
 
@@ -154,15 +138,11 @@ width="100%"
 <div align="center">
 
 <a href="https://github.com/0xnerd1/Recon_Framework">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Recon_Framework&theme=github_dark&hide_border=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Recon_Framework&theme=github_dark&hide_border=true" />
 </a>
 
 <a href="https://github.com/0xnerd1/Secure_Chatroom">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Secure_Chatroom&theme=github_dark&hide_border=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Secure_Chatroom&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
@@ -170,31 +150,11 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Secur
 <div align="center">
 
 <a href="https://github.com/0xnerd1/Cloudflare-Security-Bypass-Assessment-Tool">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Cloudflare-Security-Bypass-Assessment-Tool&theme=github_dark&hide_border=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Cloudflare-Security-Bypass-Assessment-Tool&theme=github_dark&hide_border=true" />
 </a>
 
-<a href="https://github.com/0xnerd1/Active-Directory-Toolkit">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Active-Directory-Toolkit&theme=github_dark&hide_border=true"
-/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/0xnerd1/Simple-Packet-Sniffer-with-Scapy">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Simple-Packet-Sniffer-with-Scapy&theme=github_dark&hide_border=true"
-/>
-</a>
-
-<a href="https://github.com/0xnerd1/IDSMS">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=IDSMS&theme=github_dark&hide_border=true"
-/>
+<a href="https://github.com/0xnerd1/Intelligent-Local-Lead-Generation-Business-Intelligence-Platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Intelligent-Local-Lead-Generation-Business-Intelligence-Platform&theme=github_dark&hide_border=true" />
 </a>
 
 </div>
@@ -208,7 +168,7 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=IDSMS
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" style="background: #0d1117; border-radius: 12px; padding: 20px;">
 
 ### 🥇 NADRA Bug Bounty Challenge 2026
 
@@ -223,7 +183,7 @@ Credential
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" style="background: #0d1117; border-radius: 12px; padding: 20px;">
 
 ### 🛡️ Google Cybersecurity
 
@@ -241,7 +201,7 @@ Credential
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" style="background: #0d1117; border-radius: 12px; padding: 20px;">
 
 ### 🔐 Cyber Security Technologies
 
@@ -255,7 +215,7 @@ Credential
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" style="background: #0d1117; border-radius: 12px; padding: 20px;">
 
 ### 💻 Google IT Support
 
@@ -273,7 +233,7 @@ Credential
 
 <tr>
 
-<td width="50%" align="center">
+<td width="50%" align="center" style="background: #0d1117; border-radius: 12px; padding: 20px;">
 
 ### 🐧 Advanced Linux & Network Security
 
@@ -287,7 +247,7 @@ Networking
 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" align="center" style="background: #0d1117; border-radius: 12px; padding: 20px;">
 
 ### 🔴 Advanced Cyber Security
 
@@ -310,9 +270,7 @@ Threat & Intelligence
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=0xnerd1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=0xnerd1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
 
 </div>
 
@@ -358,9 +316,6 @@ src="https://github-profile-trophy.vercel.app/?username=0xnerd1&theme=darkhub&no
 
 ### 🔐 Learn • Break • Understand • Secure
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=dark"
-width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=dark" width="100%" />
 
 </div>
