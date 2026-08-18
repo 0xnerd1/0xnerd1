@@ -6,41 +6,46 @@
 
 <p align="center">
   <a href="https://github.com/0xnerd1">
-    <img src="https://komarev.com/ghpvc/?username=0xnerd1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=0xnerd1&label=Profile%20Views&color=0e75b6&style=flat-square" />
   </a>
   <a href="https://github.com/0xnerd1?tab=followers">
-    <img src="https://img.shields.io/github/followers/0xnerd1?label=Followers&style=flat-square" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/0xnerd1?label=Followers&style=flat-square" />
   </a>
   <a href="https://github.com/0xnerd1">
-    <img src="https://img.shields.io/github/stars/0xnerd1?label=Stars&style=flat-square" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/0xnerd1?label=Stars&style=flat-square" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xnerd1&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=0xnerd1&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Cybersecurity student and aspiring penetration tester** focused on offensive security, web application security, vulnerability research, and security automation.
+I'm a **Cybersecurity student and aspiring penetration tester** focused on
+offensive security, web application security, vulnerability research,
+bug bounty hunting, and security automation.
 
 🎓 **BS Cyber Security — UET Lahore**
 
-🔐 I enjoy researching vulnerabilities, building security tools, performing reconnaissance, and understanding how real-world applications and infrastructure can be secured.
+🔐 I enjoy researching vulnerabilities, building security tools,
+performing reconnaissance, and understanding how real-world systems
+can be secured.
 
-Currently expanding my skills in **penetration testing, bug bounty research, cloud security, network security, and DevSecOps**.
+Currently focused on **penetration testing, vulnerability research,
+network security, cloud security, and security engineering.**
 
 ---
 
-## 🔭 What I'm Working On
+## 🔭 Current Focus
 
-* 🔐 Cybersecurity research
-* 🐞 Vulnerability research & bug bounty
-* 🔎 Reconnaissance & security automation
-* 🌐 Web application security
-* ☁️ Cloud security
+- 🔐 Cybersecurity Research
+- 🐞 Bug Bounty & Vulnerability Research
+- 🔎 Reconnaissance & Security Automation
+- 🌐 Web Application Security
+- ☁️ Cloud Security
 
 ---
 
@@ -52,7 +57,7 @@ Currently expanding my skills in **penetration testing, bug bounty research, clo
 
 </p>
 
-### Security
+### Security Tools
 
 <p align="center">
 
@@ -71,8 +76,13 @@ Currently expanding my skills in **penetration testing, bug bounty research, clo
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xnerd1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnerd1&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=0xnerd1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnerd1&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
 </p>
 
 ---
@@ -80,7 +90,11 @@ Currently expanding my skills in **penetration testing, bug bounty research, clo
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xnerd1&theme=radical&hide_border=true&border_radius=10" />
+
+<img
+src="https://streak-stats.demolab.com?user=0xnerd1&theme=radical&hide_border=true&border_radius=10"
+/>
+
 </p>
 
 ---
@@ -88,7 +102,12 @@ Currently expanding my skills in **penetration testing, bug bounty research, clo
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xnerd1&bg_color=141321&color=ffffff&line=fe428e&point=ffffff&area=true&hide_border=true" width="100%" />
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=0xnerd1&theme=react-dark&hide_border=true&area=true"
+width="100%"
+/>
+
 </p>
 
 ---
@@ -96,7 +115,13 @@ Currently expanding my skills in **penetration testing, bug bounty research, clo
 # 🗓️ Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0xnerd1" alt="GitHub Contribution Calendar" width="100%" />
+
+<img
+src="https://ghchart.rshah.org/0xnerd1"
+alt="GitHub Contribution Calendar"
+width="100%"
+/>
+
 </p>
 
 ---
@@ -105,8 +130,8 @@ Currently expanding my skills in **penetration testing, bug bounty research, clo
 
 <p align="center">
 
-<a href="https://github.com/0xnerd1/Cloudflare-Security-Bypass-Assessment-Tool">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Cloudflare-Security-Bypass-Assessment-Tool&theme=radical&hide_border=true" />
+<a href="https://github.com/0xnerd1/Secure_Chatroom">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Secure_Chatroom&theme=radical&hide_border=true" />
 </a>
 
 <a href="https://github.com/0xnerd1/Recon_Framework">
@@ -115,9 +140,96 @@ Currently expanding my skills in **penetration testing, bug bounty research, clo
 
 </p>
 
+<p align="center">
+
+<a href="https://github.com/0xnerd1/Cloudflare-Security-Bypass-Assessment-Tool">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Cloudflare-Security-Bypass-Assessment-Tool&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/0xnerd1/IDSMS">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=IDSMS&theme=radical&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/0xnerd1/Simple-Packet-Sniffer-with-Scapy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Simple-Packet-Sniffer-with-Scapy&theme=radical&hide_border=true" />
+</a>
+
+<a href="https://github.com/0xnerd1/Active-Directory-Toolkit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Active-Directory-Toolkit&theme=radical&hide_border=true" />
+</a>
+
+</p>
+
 ---
 
-# 📊 Repository Insights
+# 🏆 Achievements & Certifications
+
+### 🏅 NADRA Bug Bounty Challenge 2026
+
+**NADRA**  
+Issued: **February 2026**
+
+`Vulnerability Assessment & Penetration Testing (VAPT)`
+
+Credential ID: `BB-2026-058`
+
+---
+
+### 🎓 Google Cybersecurity Certificate
+
+**Google**  
+Issued: **December 2025**
+
+Skills:
+
+`Penetration Testing` `VAPT`
+
+---
+
+### 🛡️ Cyber Security Technologies
+
+**Illinois Institute of Technology**  
+Issued: **November 2025**
+
+Credential ID: `bf7ce8b6dfe2eacb4832e28b27fae2bc`
+
+---
+
+### 💻 Google IT Support
+
+**Google**  
+Issued: **December 2025**
+
+Credential ID: `EZVCO3P7CK8O`
+
+---
+
+### 🐧 Advanced Linux and Network Security
+
+**Packt**  
+Issued: **August 2025**
+
+Skills:
+
+`Linux System Administration` `Networking`
+
+---
+
+### 🔴 Advanced Cyber Security — Threat and Intelligence
+
+**Great Learning**
+
+Skill:
+
+`Red Teaming`
+
+---
+
+# 📊 GitHub Overview
 
 <p align="center">
 
@@ -127,29 +239,19 @@ Currently expanding my skills in **penetration testing, bug bounty research, clo
 
 <img src="https://img.shields.io/github/followers/0xnerd1?style=for-the-badge&label=Followers"/>
 
-<img src="https://img.shields.io/github/commit-activity/y/0xnerd1?style=for-the-badge&label=Yearly%20Commits"/>
+<img src="https://img.shields.io/github/commit-activity/y/0xnerd1?style=for-the-badge&label=Commit%20Activity"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xnerd1&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
-</p>
-
----
-
-# 📚 Certifications
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/IBM-Ethical%20Hacking%20with%20Kali%20Linux-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Microsoft-Cybersecurity-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=0xnerd1&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+/>
 
 </p>
 
@@ -175,12 +277,16 @@ Currently expanding my skills in **penetration testing, bug bounty research, clo
 
 ---
 
-# ⚡
+<h3 align="center">🔐 Learn • Break • Understand • Secure</h3>
 
 <p align="center">
-  <i>"Learn. Break. Understand. Secure."</i>
+<i>Always learning. Always testing. Always improving.</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+/>
+
 </p>
