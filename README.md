@@ -1,184 +1,78 @@
-# Hi 👋, I'm Umair Majeed
+<h1 align="center">Hi 👋, I'm Umair Majeed</h1>
 
-<h3 align="center">🛡️ Cybersecurity Student | Penetration Tester | Security Researcher</h3>
+<h3 align="center">
+  🛡️ Cybersecurity Student • Penetration Tester • Security Researcher
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xnerd1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/0xnerd1?label=Followers&style=flat" alt="Followers"/>
+  <a href="https://github.com/0xnerd1">
+    <img src="https://komarev.com/ghpvc/?username=0xnerd1&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/0xnerd1?tab=followers">
+    <img src="https://img.shields.io/github/followers/0xnerd1?label=Followers&style=flat-square" alt="Followers"/>
+  </a>
+  <a href="https://github.com/0xnerd1">
+    <img src="https://img.shields.io/github/stars/0xnerd1?label=Stars&style=flat-square" alt="Stars"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xnerd1&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=0xnerd1&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Cybersecurity student and aspiring penetration tester** passionate about offensive security, web application security, vulnerability research, bug bounty hunting, and network security.
+I'm a **Cybersecurity student and aspiring penetration tester** focused on offensive security, web application security, vulnerability research, and security automation.
 
-🎓 Currently pursuing **BS Cyber Security at UET Lahore**
+🎓 **BS Cyber Security — UET Lahore**
 
-🔐 My main interests include:
+🔐 I enjoy researching vulnerabilities, building security tools, performing reconnaissance, and understanding how real-world applications and infrastructure can be secured.
 
-* Web Application Security
-* Penetration Testing
-* Bug Bounty Hunting
-* Vulnerability Research
-* Reconnaissance & Attack Surface Discovery
-* Network Security
-* Security Automation
-* Linux Security
-* Cloud Security
-
-> I break things to understand how they work — then figure out how to secure them. 🔐
+Currently expanding my skills in **penetration testing, bug bounty research, cloud security, network security, and DevSecOps**.
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 What I'm Working On
 
-**Cybersecurity Research & Penetration Testing**
-
-Currently exploring web application vulnerabilities, reconnaissance methodologies, security automation, and practical penetration-testing techniques.
-
----
-
-## 🌱 Currently Learning
-
-* 🔴 Advanced Penetration Testing
-* 🌐 Web Application Security
-* 🐞 Bug Bounty Methodologies
-* ☁️ Cloud Security
-* 🔵 Network Security
-* ⚙️ DevSecOps
-* 🔍 Vulnerability Research
-* 🛡️ Security Monitoring & IDS
+* 🔐 Cybersecurity research
+* 🐞 Vulnerability research & bug bounty
+* 🔎 Reconnaissance & security automation
+* 🌐 Web application security
+* ☁️ Cloud security
 
 ---
 
-## 👯 Looking to Collaborate On
+## 🛠️ Tech Stack
 
-* 🔐 Cybersecurity Projects
-* 🐞 Bug Bounty Research
-* 🧪 Security Tools
-* 🚩 CTFs
-* 🔎 Reconnaissance Automation
-* 🌐 Web Security Research
-* 🐧 Open-Source Security Projects
+<p align="center">
 
----
-
-## 🤝 Looking for Help With
-
-**Advanced penetration testing, vulnerability research, cloud security, and real-world security research methodologies.**
-
----
-
-## 💬 Ask Me About
-
-`Cybersecurity` `Penetration Testing` `Bug Bounty` `Web Security` `Linux` `Python` `Networking` `Burp Suite` `Nmap` `Wireshark` `SQL`
-
----
-
-# 🛠️ Languages & Technologies
-
-<p align="left">
-
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</a>
-
-<a href="https://www.java.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-</a>
-
-<a href="https://mariadb.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" width="45" height="45" alt="MariaDB"/>
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,java,js,bash,html,css,linux,mysql,git,github,docker" />
 
 </p>
 
----
+### Security
 
-# 🛡️ Security Tools
+<p align="center">
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/ffuf-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Snort-EE3124?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SearchSploit-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/ffuf-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Snort-EE3124?style=flat-square"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/>
 
 </p>
-
----
-
-# 🔐 Security Knowledge
-
-### 🌐 Web Application Security
-
-* Authentication & Authorization
-* IDOR / Broken Access Control
-* Cross-Site Scripting (XSS)
-* Server-Side Request Forgery (SSRF)
-* SQL Injection
-* CORS Misconfiguration
-* Directory Traversal
-* Open Redirect
-* Security Misconfiguration
-
-### 🌐 Network Security
-
-* TCP/IP
-* DNS
-* HTTP/HTTPS
-* Packet Analysis
-* Port & Service Enumeration
-* Firewalls
-* Intrusion Detection
-* Network Traffic Analysis
-
-### 🔴 Offensive Security
-
-* Reconnaissance
-* Enumeration
-* Vulnerability Assessment
-* Penetration Testing
-* Bug Bounty Research
-* Security Automation
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xnerd1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnerd1&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xnerd1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xnerd1&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -186,7 +80,7 @@ Currently exploring web application vulnerabilities, reconnaissance methodologie
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xnerd1&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=0xnerd1&theme=radical&hide_border=true&border_radius=10" />
 </p>
 
 ---
@@ -194,31 +88,15 @@ Currently exploring web application vulnerabilities, reconnaissance methodologie
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xnerd1&theme=react-dark&hide_border=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xnerd1&bg_color=141321&color=ffffff&line=fe428e&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🗓️ Contribution Calendar
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xnerd1&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-# ⭐ GitHub Statistics
-
-<p align="center">
-
-<img src="https://img.shields.io/github/stars/0xnerd1?style=for-the-badge&label=Total%20Stars"/>
-
-<img src="https://img.shields.io/github/followers/0xnerd1?style=for-the-badge&label=Followers"/>
-
-<img src="https://img.shields.io/github/commit-activity/y/0xnerd1?style=for-the-badge&label=Commit%20Activity"/>
-
-<img src="https://img.shields.io/github/last-commit/0xnerd1/0xnerd1?style=for-the-badge&label=Last%20Update"/>
-
+  <img src="https://ghchart.rshah.org/0xnerd1" alt="GitHub Contribution Calendar" width="100%" />
 </p>
 
 ---
@@ -227,11 +105,11 @@ Currently exploring web application vulnerabilities, reconnaissance methodologie
 
 <p align="center">
 
-<a href="https://github.com/0xnerd1">
+<a href="https://github.com/0xnerd1/Cloudflare-Security-Bypass-Assessment-Tool">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Cloudflare-Security-Bypass-Assessment-Tool&theme=radical&hide_border=true" />
 </a>
 
-<a href="https://github.com/0xnerd1">
+<a href="https://github.com/0xnerd1/Recon_Framework">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Recon_Framework&theme=radical&hide_border=true" />
 </a>
 
@@ -239,52 +117,70 @@ Currently exploring web application vulnerabilities, reconnaissance methodologie
 
 ---
 
-# 📚 Certifications
+# 📊 Repository Insights
 
-* 🎓 Google — Foundations of Cybersecurity
-* 🔐 IBM — Ethical Hacking with Kali Linux
-* 🛡️ Microsoft — Introduction to Computers and Operating Systems and Security
-* 🌐 Packt — Advanced Linux Networking and Security
-* 💻 Coursera — Command Line in Linux
+<p align="center">
+
+<img src="https://img.shields.io/github/repos/0xnerd1?style=for-the-badge&label=Repositories"/>
+
+<img src="https://img.shields.io/github/stars/0xnerd1?style=for-the-badge&label=Total%20Stars"/>
+
+<img src="https://img.shields.io/github/followers/0xnerd1?style=for-the-badge&label=Followers"/>
+
+<img src="https://img.shields.io/github/commit-activity/y/0xnerd1?style=for-the-badge&label=Yearly%20Commits"/>
+
+</p>
 
 ---
 
-# 📝 Latest Articles
+# 🏆 Achievements
 
-<!-- BLOG-POST-LIST:START -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xnerd1&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+</p>
 
-<!-- BLOG-POST-LIST:END -->
+---
+
+# 📚 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM-Ethical%20Hacking%20with%20Kali%20Linux-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Cybersecurity-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/umairmajeed1/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/umairmajeed1/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/0xnerd1" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/0xnerd1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/umairmajeed123/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.instagram.com/umairmajeed123/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Fun Fact
-
-> **I break things to understand how they work — then figure out how to secure them. 🔐😄**
-
----
-
-<h3 align="center">🔐 Learn • Break • Understand • Secure</h3>
+# ⚡
 
 <p align="center">
-  <i>Always learning. Always testing. Always improving.</i>
+  <i>"Learn. Break. Understand. Secure."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
