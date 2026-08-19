@@ -158,25 +158,9 @@ alt="Top Languages by Commit"
 
 </div>
 
----
 
-<!-- ========================================================= -->
-<!--                 CONTRIBUTION CALENDAR                     -->
-<!-- ========================================================= -->
 
-<h2 align="center">Contribution Calendar</h2>
 
-<div align="center">
-
-<img
-src="https://ghchart.rshah.org/0xnerd1"
-width="95%"
-alt="GitHub Contribution Calendar"
-/>
-
-</div>
-
----
 
 <!-- ========================================================= -->
 <!--                     GITHUB TROPHIES                       -->
