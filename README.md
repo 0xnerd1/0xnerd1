@@ -89,7 +89,7 @@
 <table>
 <tr>
 
-<td width="75%" valign="top">
+<td width="50%" valign="top">
 
 <h2 align="center">Contribution Activity</h2>
 
@@ -101,7 +101,7 @@ alt="Contribution Activity"
 
 </td>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 <h2 align="center">GitHub Overview</h2>
 
