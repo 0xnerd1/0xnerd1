@@ -4,14 +4,17 @@
 
 <div align="center">
 
-# Hey 👋, I'm Umair Majeed
+<a href="https://github.com/0xnerd1">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=42&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+Umair+Majeed" alt="Hi, I'm Umair Majeed" />
+</a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=0xnerd1&label=Profile%20Views&style=flat-square&color=161b22" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/0xnerd1?label=Followers&style=flat-square&color=161b22" alt="Followers"/>
-</p>
+<br>
 
-</div>
+<a href="https://github.com/0xnerd1">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=Security+Researcher+%E2%80%A2+Penetration+Tester;Offensive+Security+%E2%80%A2+Vulnerability+Research;Security+Automation+%E2%80%A2+Bug+Bounty" alt="Security Researcher and Penetration Tester" />
+</a>
+
+<br><br>
 
 ---
 
@@ -23,7 +26,7 @@
 
 <a href="https://github.com/0xnerd1">
 <img
-  src="https://github-readme-stats.vercel.app/api?username=0xnerd1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1b1e2a&title_color=6fa8ff&text_color=58d6c0&icon_color=c58cff&rank_icon=github"
+  src="./profile/stats.svg"
   width="48%"
   alt="Umair Majeed GitHub Stats"
 />
@@ -45,7 +48,7 @@
 <!--                        TECH STACK                         -->
 <!-- ========================================================= -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -88,7 +91,7 @@
 
 <td width="75%" valign="top">
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h2 align="center">Contribution Activity</h2>
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=0xnerd1&bg_color=1b1e2a&color=6fa8ff&line=6fa8ff&point=c58cff&area=true&area_color=6fa8ff&hide_border=true&custom_title=Umair%20Majeed's%20Contribution%20Graph"
@@ -100,10 +103,10 @@ alt="Contribution Activity"
 
 <td width="25%" valign="top">
 
-<h2 align="center">📌 GitHub Overview</h2>
+<h2 align="center">GitHub Overview</h2>
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=0xnerd1&show_icons=true&hide_title=false&hide_rank=true&hide=issues,prs&card_width=300&theme=github_dark&bg_color=1b1e2a&title_color=6fa8ff&text_color=58d6c0&icon_color=c58cff&hide_border=true"
+src="./profile/stats.svg"
 width="100%"
 alt="GitHub Overview"
 />
@@ -131,7 +134,7 @@ alt="GitHub Overview"
 <h2 align="center">Top Languages by Repo</h2>
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xnerd1&theme=github_dark"
+src="./profile/languages.svg"
 width="100%"
 alt="Top Languages by Repository"
 />
@@ -161,7 +164,7 @@ alt="Top Languages by Commit"
 <!--                 CONTRIBUTION CALENDAR                     -->
 <!-- ========================================================= -->
 
-<h2 align="center">🗓️ Contribution Calendar</h2>
+<h2 align="center">Contribution Calendar</h2>
 
 <div align="center">
 
@@ -179,15 +182,39 @@ alt="GitHub Contribution Calendar"
 <!--                     GITHUB TROPHIES                       -->
 <!-- ========================================================= -->
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">GitHub Trophies</h2>
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=0xnerd1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-width="95%"
-alt="GitHub Trophies"
-/>
+<a href="https://github.com/0xnerd1">
+  <b>GitHub Profile</b>
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://github.com/0xnerd1?tab=repositories">
+  <b>Repositories</b>
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://github.com/0xnerd1?tab=stars">
+  <b>Starred Repositories</b>
+</a>
+
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://github.com/0xnerd1?tab=followers">
+  <b>Followers</b>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Contributions • Stars • Projects • Development**
 
 </div>
 
@@ -197,43 +224,83 @@ alt="GitHub Trophies"
 <!--                       PROJECTS                            -->
 <!-- ========================================================= -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Recon Framework</h3>
+
+<p align="center">
+A reconnaissance framework designed to automate and simplify security reconnaissance workflows.
+</p>
+
+<p align="center">
 <a href="https://github.com/0xnerd1/Recon_Framework">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Recon_Framework&theme=github_dark&hide_border=true&bg_color=1b1e2a"
-width="48%"
-alt="Recon Framework"
-/>
+<b>→ View Repository</b>
 </a>
+</p>
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Secure Chatroom</h3>
+
+<p align="center">
+An encrypted chat application using secure communication and TLS-wrapped TCP connections.
+</p>
+
+<p align="center">
 <a href="https://github.com/0xnerd1/Secure_Chatroom">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Secure_Chatroom&theme=github_dark&hide_border=true&bg_color=1b1e2a"
-width="48%"
-alt="Secure Chatroom"
-/>
+<b>→ View Repository</b>
 </a>
+</p>
 
-<br>
+</td>
 
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Cloudflare Security Bypass Assessment Tool</h3>
+
+<p align="center">
+A security assessment tool focused on identifying potential Cloudflare protection weaknesses and bypass scenarios.
+</p>
+
+<p align="center">
 <a href="https://github.com/0xnerd1/Cloudflare-Security-Bypass-Assessment-Tool">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Cloudflare-Security-Bypass-Assessment-Tool&theme=github_dark&hide_border=true&bg_color=1b1e2a"
-width="48%"
-alt="Cloudflare Security Bypass Assessment Tool"
-/>
+<b>→ View Repository</b>
 </a>
+</p>
 
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Intelligent Local Lead Generation</h3>
+
+<p align="center">
+A full-stack business intelligence platform for intelligent local lead generation.
+</p>
+
+<p align="center">
 <a href="https://github.com/0xnerd1/Intelligent-Local-Lead-Generation-Business-Intelligence-Platform">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=0xnerd1&repo=Intelligent-Local-Lead-Generation-Business-Intelligence-Platform&theme=github_dark&hide_border=true&bg_color=1b1e2a"
-width="48%"
-alt="Intelligent Local Lead Generation"
-/>
+<b>→ View Repository</b>
 </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -243,7 +310,7 @@ alt="Intelligent Local Lead Generation"
 <!--                   ACHIEVEMENTS                            -->
 <!-- ========================================================= -->
 
-<h2 align="center">🏆 Achievements & Certifications</h2>
+<h2 align="center">Achievements & Certifications</h2>
 
 <div align="center">
 
@@ -252,7 +319,7 @@ alt="Intelligent Local Lead Generation"
 
 <td width="50%" align="center">
 
-### 🥇 NADRA Bug Bounty Challenge 2026
+### NADRA Bug Bounty Challenge 2026
 
 **NADRA**
 
@@ -266,7 +333,7 @@ Vulnerability Assessment & Penetration Testing
 
 <td width="50%" align="center">
 
-### 🛡️ Google Cybersecurity Certificate
+### Google Cybersecurity Certificate
 
 **Google**
 
@@ -282,7 +349,7 @@ Penetration Testing • VAPT
 
 <td width="50%" align="center">
 
-### 🎓 Cyber Security Technologies
+### Cyber Security Technologies
 
 **Illinois Institute of Technology**
 
@@ -295,7 +362,7 @@ Penetration Testing • VAPT
 
 <td width="50%" align="center">
 
-### 💻 Google IT Support
+### Google IT Support
 
 **Google**
 
@@ -312,7 +379,7 @@ Penetration Testing • VAPT
 
 <td width="50%" align="center">
 
-### 🐧 Advanced Linux & Network Security
+### Advanced Linux & Network Security
 
 **Packt**
 
@@ -324,7 +391,7 @@ Linux System Administration • Networking
 
 <td width="50%" align="center">
 
-### 🔴 Advanced Cyber Security
+### Advanced Cyber Security
 
 **Great Learning**
 
@@ -343,7 +410,7 @@ Threat Intelligence • Red Teaming
 <!--                     CONNECT                               -->
 <!-- ========================================================= -->
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 
@@ -358,31 +425,5 @@ Threat Intelligence • Red Teaming
 <a href="https://www.instagram.com/umairmajeed123/">
 <img src="https://img.shields.io/badge/Instagram-1b1e2a?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
-
-</div>
-
----
-
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION SNAKE                       -->
-<!-- ========================================================= -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/0xnerd1/0xnerd1/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-width="95%"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🔐 Learn • Break • Understand • Secure
 
 </div>
