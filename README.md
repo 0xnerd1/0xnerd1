@@ -34,7 +34,7 @@
 
 <a href="https://github.com/0xnerd1">
 <img
-  src="https://streak-stats.demolab.com/?user=0xnerd1&theme=github-dark-blue&hide_border=true&background=1b1e2a&ring=6fa8ff&fire=c58cff&currStreakLabel=c58cff&sideLabels=6fa8ff&dates=8b949e"
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=0xnerd1&theme=github-dark-blue&hide_border=true&background=1b1e2a&ring=6fa8ff&fire=c58cff&currStreakLabel=c58cff&sideLabels=6fa8ff&dates=8b949e"
   width="49%"
   alt="Umair Majeed GitHub Contribution Streak"
 />
