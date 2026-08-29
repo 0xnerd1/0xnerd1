@@ -94,9 +94,9 @@
 <h2 align="center">Contribution Activity</h2>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=0xnerd1&bg_color=1b1e2a&color=6fa8ff&line=6fa8ff&point=c58cff&area=true&area_color=6fa8ff&hide_border=true&custom_title=Umair%20Majeed's%20Contribution%20Graph"
-width="100%"
-alt="Contribution Activity"
+  src="https://github.pumbas.net/api/contributions/0xnerd1?colour=6fa8ff&bgColour=1b1e2a"
+  width="100%"
+  alt="Umair Majeed's Contribution Graph"
 />
 
 </td>
